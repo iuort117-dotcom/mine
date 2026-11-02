@@ -3,7 +3,16 @@
     {
       "id": "char_e763d375-3e7b-4366-9f7d-fae143a2e12f",
       "name": "남미연",
-      "images": []
+      "images": [
+        {
+          "id": "img_324f860a-fbb3-4c3e-ac5d-5ea852e595b1",
+          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/876a2a0d5a1643ecbf4ff6cd2fb183f7.png"
+        },
+        {
+          "id": "img_da673c58-e221-41d0-bd32-27d083754a42",
+          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/c742d95d71ae4f5ebf593416f5715dcf.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_e763d375-3e7b-4366-9f7d-fae143a2e12f"
