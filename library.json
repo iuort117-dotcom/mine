@@ -25,7 +25,12 @@
     {
       "id": "char_4604c661-cd66-4194-8faa-a259db7ea6ef",
       "name": "공연음란죄",
-      "images": []
+      "images": [
+        {
+          "id": "img_315b98ce-560f-40d5-936a-474729055970",
+          "path": "assets/char_4604c661-cd66-4194-8faa-a259db7ea6ef/c8494924ff254b24a17a5c67abb20d33.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_4604c661-cd66-4194-8faa-a259db7ea6ef"
