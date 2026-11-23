@@ -54,7 +54,12 @@
     {
       "id": "char_e1a6bb09-a5dd-4878-b987-155af38f1dfd",
       "name": "왕자님과 개자식",
-      "images": []
+      "images": [
+        {
+          "id": "img_e2ba879a-52a9-490b-8875-0b2ebdc170bc",
+          "path": "assets/char_e1a6bb09-a5dd-4878-b987-155af38f1dfd/5601320e18424f79ae40f5cb1df97a09.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_e1a6bb09-a5dd-4878-b987-155af38f1dfd"
