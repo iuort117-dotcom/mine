@@ -40,7 +40,12 @@
     {
       "id": "char_bee82dd6-a653-4da7-a8e1-15b137638f96",
       "name": "남궁현",
-      "images": []
+      "images": [
+        {
+          "id": "img_f8f33c53-b116-4be6-9eec-918eeadcac0c",
+          "path": "assets/char_bee82dd6-a653-4da7-a8e1-15b137638f96/4ab7d568a8a14afeb94fb4aa0f083e07.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_bee82dd6-a653-4da7-a8e1-15b137638f96"
