@@ -36,7 +36,12 @@
       "id": "char_9747f6ac-5248-42e5-a992-dc5d8776338a",
       "name": "공공재 로판",
       "images": []
+    },
+    {
+      "id": "char_bee82dd6-a653-4da7-a8e1-15b137638f96",
+      "name": "남궁현",
+      "images": []
     }
   ],
-  "activeCharId": "char_9747f6ac-5248-42e5-a992-dc5d8776338a"
+  "activeCharId": "char_bee82dd6-a653-4da7-a8e1-15b137638f96"
 }
