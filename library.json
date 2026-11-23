@@ -31,7 +31,12 @@
           "path": "assets/char_4604c661-cd66-4194-8faa-a259db7ea6ef/c8494924ff254b24a17a5c67abb20d33.png"
         }
       ]
+    },
+    {
+      "id": "char_9747f6ac-5248-42e5-a992-dc5d8776338a",
+      "name": "공공재 로판",
+      "images": []
     }
   ],
-  "activeCharId": "char_4604c661-cd66-4194-8faa-a259db7ea6ef"
+  "activeCharId": "char_9747f6ac-5248-42e5-a992-dc5d8776338a"
 }
