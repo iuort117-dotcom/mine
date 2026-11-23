@@ -1,43 +1,10 @@
 {
   "characters": [
     {
-      "id": "char_e763d375-3e7b-4366-9f7d-fae143a2e12f",
-      "name": "남미연",
-      "images": [
-        {
-          "id": "img_324f860a-fbb3-4c3e-ac5d-5ea852e595b1",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/876a2a0d5a1643ecbf4ff6cd2fb183f7.png"
-        },
-        {
-          "id": "img_da673c58-e221-41d0-bd32-27d083754a42",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/c742d95d71ae4f5ebf593416f5715dcf.png"
-        },
-        {
-          "id": "img_a68145dd-e6c8-4c78-a61f-619c4c286f8c",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/13ed51dc117447929032cb195c702962.jpg"
-        },
-        {
-          "id": "img_c5964014-0152-4d54-b2f1-044526bb6f54",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/bdfe17f59a574abeb4a411ab9a84b48f.jpg"
-        },
-        {
-          "id": "img_f8d77f64-3654-4445-9436-9b229795c750",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/e933a630c3a743ff8076a7b6bd2b25e9.png"
-        },
-        {
-          "id": "img_aae1ef81-0c06-43c7-aa48-0c610a68eb85",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/7b99007af7ce4e8d983d12e39ef56366.png"
-        },
-        {
-          "id": "img_c92fa016-d112-4fa9-afaf-2b67492b67f5",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/98577ac6677d4e318c93dad735e4f980.png"
-        },
-        {
-          "id": "img_ad167c79-f419-4e94-9e65-e5ed51240d63",
-          "path": "assets/char_e763d375-3e7b-4366-9f7d-fae143a2e12f/c916516f20f64c40a455cb6e07fbc9bb.png"
-        }
-      ]
+      "id": "char_ee1b89e7-7d3a-4fcb-aeec-980ddb4b462d",
+      "name": "카페 드 라메르",
+      "images": []
     }
   ],
-  "activeCharId": "char_e763d375-3e7b-4366-9f7d-fae143a2e12f"
+  "activeCharId": "char_ee1b89e7-7d3a-4fcb-aeec-980ddb4b462d"
 }
