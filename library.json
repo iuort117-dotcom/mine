@@ -21,7 +21,12 @@
           "path": "assets/char_ee1b89e7-7d3a-4fcb-aeec-980ddb4b462d/ef676aa6621b4763adc21baf48a3b4a3.png"
         }
       ]
+    },
+    {
+      "id": "char_4604c661-cd66-4194-8faa-a259db7ea6ef",
+      "name": "공공재",
+      "images": []
     }
   ],
-  "activeCharId": "char_ee1b89e7-7d3a-4fcb-aeec-980ddb4b462d"
+  "activeCharId": "char_4604c661-cd66-4194-8faa-a259db7ea6ef"
 }
