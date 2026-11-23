@@ -76,7 +76,12 @@
     {
       "id": "char_1c4d5505-4620-4ab1-89b6-4222276c577b",
       "name": "퍼비든",
-      "images": []
+      "images": [
+        {
+          "id": "img_478925fb-5368-4313-acd9-a6140d93b80a",
+          "path": "assets/char_1c4d5505-4620-4ab1-89b6-4222276c577b/1ab7285983814506841feb15ed8c8cc9.png"
+        }
+      ]
     }
   ],
   "activeCharId": "char_1c4d5505-4620-4ab1-89b6-4222276c577b"
