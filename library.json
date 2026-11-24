@@ -70,6 +70,14 @@
         {
           "id": "img_f6ddacdd-02b5-4f4b-b683-17fc979e2362",
           "path": "assets/char_e1a6bb09-a5dd-4878-b987-155af38f1dfd/2937149a22864e68aa20deadb2d5b927.png"
+        },
+        {
+          "id": "img_b052a01e-d039-4860-ba26-7197208f6306",
+          "path": "assets/char_e1a6bb09-a5dd-4878-b987-155af38f1dfd/755d1f1d8e3248ba86a1e3d7eeb16531.png"
+        },
+        {
+          "id": "img_6465c6a8-f8c6-4f3e-83a8-7eac455409db",
+          "path": "assets/char_e1a6bb09-a5dd-4878-b987-155af38f1dfd/c2abfd5687c7485e9160c447a70fb33f.png"
         }
       ]
     },
@@ -116,5 +124,5 @@
       ]
     }
   ],
-  "activeCharId": "char_1c4d5505-4620-4ab1-89b6-4222276c577b"
+  "activeCharId": "char_e1a6bb09-a5dd-4878-b987-155af38f1dfd"
 }
