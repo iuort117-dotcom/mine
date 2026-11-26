@@ -122,7 +122,12 @@
           "path": "assets/char_1c4d5505-4620-4ab1-89b6-4222276c577b/8a410dca72984146b31d7b5cc381b6a2.png"
         }
       ]
+    },
+    {
+      "id": "char_08907942-e296-4030-8f86-a39f04759f21",
+      "name": "서인후",
+      "images": []
     }
   ],
-  "activeCharId": "char_e1a6bb09-a5dd-4878-b987-155af38f1dfd"
+  "activeCharId": "char_08907942-e296-4030-8f86-a39f04759f21"
 }
