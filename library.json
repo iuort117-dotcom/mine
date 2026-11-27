@@ -136,7 +136,12 @@
           "path": "assets/char_08907942-e296-4030-8f86-a39f04759f21/c18f3809c0354f89aa63dce78478eb39.png"
         }
       ]
+    },
+    {
+      "id": "char_41900c61-c6c5-4b81-a1bd-6826996dde60",
+      "name": "쿠조 레이",
+      "images": []
     }
   ],
-  "activeCharId": "char_08907942-e296-4030-8f86-a39f04759f21"
+  "activeCharId": "char_41900c61-c6c5-4b81-a1bd-6826996dde60"
 }
